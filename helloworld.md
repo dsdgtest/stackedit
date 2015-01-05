@@ -5,4 +5,6 @@ I have added a list:
  2. item 2
  3. item 3
 And I have also added a
-##heading##
+## heading
+and a HR
+----
