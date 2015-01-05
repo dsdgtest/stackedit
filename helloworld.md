@@ -6,5 +6,5 @@ I have added a list:
  3. item 3
 And I have also added a
 ## heading
-and a HR
-----
+and a
+> blockquote
