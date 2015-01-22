@@ -1,39 +1,38 @@
-Content management
+##Content management
 As more government services become available online, additional text, files, images, scripts, etc. are made available on websites. These websites are becoming increasingly complex, and ensuring that the content is managed appropriately is a growing challenge – especially in organisations that have extensive websites or have a range of areas responsible for different parts of a website. Further reinforcing the challenges in managing government websites are the growing expectations of visitors regarding the quality and usefulness of government websites.
 
 From an external user’s perspective, content management involves ensuring that the information provided is correct, timely and accurate. Also, website users should be able to quickly and easily find information and navigate through the site.
 
-Why should I?
+###Why should I?
 Failure to effectively manage website content can have a number of ramifications:
-
-Legal exposure if users act upon incorrect or outdated information on the site and incur a loss.
-Agencies may also be legally liable if statutory requirements, such as accessibility, are not met. Note that this liability applies to websites as well as corporate intranets.
-Negative impact upon reputation and branding, due to poorly designed and structured sites.
-Other public relations and political issues caused by the release of untimely, inaccurate or inappropriate information.
-Increased customer complaints and support costs, due to inaccurate or misleading published information.
-Negative impact upon staff productivity, primarily due to time spent searching for information on poorly designed or poorly managed intranets.
-What should I do?
+- Legal exposure if users act upon incorrect or outdated information on the site and incur a loss.
+- Agencies may also be legally liable if statutory requirements, such as accessibility, are not met. Note that this liability applies to websites as well as corporate intranets.
+- Negative impact upon reputation and branding, due to poorly designed and structured sites.
+- Other public relations and political issues caused by the release of untimely, inaccurate or inappropriate information.
+- Increased customer complaints and support costs, due to inaccurate or misleading published information.
+- Negative impact upon staff productivity, primarily due to time spent searching for information on poorly designed or poorly managed intranets.
+###What should I do?
 Managing content is a collaborative process. The basic roles and responsibilities are:
 
-Author – creates and sometimes edits content
-Editor – fine tunes the message and style of delivery
-Publisher – releases the content for use
-Administrator – manages access permissions to folders and files and may also assist and support users in various ways
+- Author – creates and sometimes edits content
+- Editor – fine tunes the message and style of delivery
+- Publisher – releases the content for use
+- Administrator – manages access permissions to folders and files and may also assist and support users in various ways
 In many cases, an individual may need to perform more than one of these roles, but it is inadvisable to allocate all roles to one person.
 
 A crucial element of content management is being able to manage successive evolving versions of content. Authors and editors often need to restore earlier versions of content in case of process failures or unsuitable edits. Content management software can be an effective way to manage a document’s life cycle from creation to revisions, publication, archiving, or document destruction.
 
-How do I?
+###How do I?
 It is necessary to first identify exactly what information and services should be provided on the website. If resources are constrained, identify and prioritise high-value content. Each piece of content then needs an owner; someone who will oversee the currency and accuracy of that item for the term of its ‘life’. At the same time, it is important that the roles, responsibilities and content lifecycle processes be clearly articulated.
 
 Before content is created, and as new content authors work on content, it is important that they understand the difference between writing for the web and writing in an offline mode. It is necessary to identify the aim of the content, the intended audience and how that audience use the web. Content authors then need to incorporate the correct writing approach and techniques. Briefly:
 
-match the writing style to your aims and the intended audiences
-layer information – progressively reveal detail as the user drills down into the site and/or page
-place critical information in plain sight when entering web page
-use succinct and easy-to-understand headings to help users find information fast
-use dot-points and lists where appropriate as they are easier to scan than paragraphs
-write succinctly
-use a vocabulary that your intended audience will understand
-take advantage of the web as a hypertext medium – link to internal and external resources as appropriate
-consider using an editor to ensure consistency in style and grammar throughout the site.
+- match the writing style to your aims and the intended audiences
+- layer information – progressively reveal detail as the user drills down into the site and/or page
+- place critical information in plain sight when entering web page
+- use succinct and easy-to-understand headings to help users find information fast
+- use dot-points and lists where appropriate as they are easier to scan than paragraphs
+- write succinctly
+- use a vocabulary that your intended audience will understand
+- take advantage of the web as a hypertext medium – link to internal and external resources as appropriate
+- consider using an editor to ensure consistency in style and grammar throughout the site.
