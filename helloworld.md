@@ -1,3 +1,10 @@
+This is example code:
+> javascript  
+> Example code  
+
+No longer example.
+
+
 There are 3 sentences in the first list:
 
 1. First sentence.
