@@ -27,3 +27,12 @@ A nested list looks like this:
 2. This is another item:
   * a sub item
   * another item.
+
+
+This is a short paragraph.
+
+This is a second short paragraph. The Markdown contains an empty line (by pressing return twice) between the two paragraphs.
+
+This paragraph contains a line break   
+midway through.  
+This will be rendered on a new line as well (they were created by adding 2 spaces and pressing return once).
