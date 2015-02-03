@@ -3,6 +3,13 @@ There are 3 sentences in the first list:
 1. First sentence.
 2. Second sentence.
 3. Third sentence.
+ 
+
+This list contains:
+
+* an item
+* another item
+* the final item.
 
 
 
