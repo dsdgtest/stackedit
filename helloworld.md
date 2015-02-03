@@ -31,8 +31,9 @@ A nested list looks like this:
 
 This is a short paragraph.
 
-This is a second short paragraph. The Markdown contains an empty line (by pressing return twice) between the two paragraphs.
+This is a second short paragraph. Create a new paragraph by pressing return twice.
 
-This paragraph contains a line break   
+This is a third paragraph containing a line break  
 midway through.  
-This will be rendered on a new line as well (they were created by adding 2 spaces and pressing return once).
+This line will be rendered on a new line as well. Create a line break within a paragraph by adding 2 spaces and pressing return once.
+This text will appear in the same paragraph because return was only pressed once.
